@@ -2,7 +2,8 @@
 
 
 	/**
-	 * print_alphabet - print all alphabet in lowercase
+	 * print_alphabet - function that prints the alphabet, in lowercase
+	 * Return: 0 (Success)
 	 */
 
 
